@@ -30,7 +30,7 @@
 
 	<servlet>
 		<servlet-name>CommentController</servlet-name>
-		<servlet-class>com.mickkong.controller.CommentController</servlet-class>
+		<servlet-class>com.qinjing.controller.CommentController</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>CommentController</servlet-name>
